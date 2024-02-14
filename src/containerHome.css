@@ -1,0 +1,32 @@
+.contenedor {
+    display: flex;
+    justify-content:flex-start;
+    margin-left: 16%;
+    margin-top: 1.2%;
+  }
+ .fondo {
+    width: 150px;
+    height: 200px;
+    background: black;
+    display: flex;
+    margin-left: 15px;
+}
+.image{
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content:flex-start;
+    margin-left:-39%;
+    margin-top: 18%;
+}
+.titulo {
+    color: rgb(255, 255, 255);
+    margin-left:-91%;
+    margin-top: 25%;
+    font-size:xx-large;
+    font-weight: normal;
+}
+.mensaje {
+    color: rgb(0, 255, 47);
+    justify-content: flex-end;
+  }
